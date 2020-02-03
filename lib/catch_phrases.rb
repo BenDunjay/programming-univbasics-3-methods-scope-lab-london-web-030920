@@ -16,8 +16,7 @@ end
 
 
 def any_phrase(phrase)
-phrase = "Do A Barrell Roll!"
-return phrase
+puts "#{phrase}"
 end
 
 
