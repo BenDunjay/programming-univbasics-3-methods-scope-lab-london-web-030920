@@ -16,9 +16,10 @@ end
 
 
 any_phrase(phrase)
+phrase = "Do A Barrell Roll!"
 puts "#{phrase}"
 phrase
 end
 
-any_phrase("Do A Barrell Roll!")
+
 
