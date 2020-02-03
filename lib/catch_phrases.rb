@@ -13,8 +13,10 @@ def link
   puts "It's Dangerous To Go Alone! Take This."
 end
 
-any_phrase(phrase)
 phrase = "Do A Barrell Roll!"
+
+any_phrase(phrase)
+
 puts phrase
 end
 
