@@ -15,6 +15,6 @@ end
 
 any_phrase(phrase)
 puts "#{phrase}"
-phrase
+return phrase
 end
 
