@@ -14,7 +14,7 @@ def link
 end
 
 any_phrase(phrase)
-return "#{phrase}"
+phrase = "Do A Barrell Roll!"
 
 end
 
